@@ -20,4 +20,4 @@ sheet 6 public link : https://public.tableau.com/app/profile/soundharya.v/viz/da
 
 sheet 7 public link :https://public.tableau.com/app/profile/soundharya.v/viz/dashpord2/Sheet7?publish=yes
 
-video demonstration link : https://drive.google.com/file/d/1wAAZvunaVr2BMWTlR6iVBYPehvMRFnIw/view?usp=drivesdk
+video demonstration link : https://youtu.be/ki6m3L7p5dw?si=W16ju-n-tRoN_L0_
